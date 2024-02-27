@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* styles.css */
+@font-face {
+  font-family: "Founders Grotesk Semibold";
+  src: local("Founders Grotesk Semibold"),
+    url(./path/to/FoundersGrotesk-Semibold.ttf) format("ttf");
+}
+*::selection {
+  color: mediumturquoise;
+}
