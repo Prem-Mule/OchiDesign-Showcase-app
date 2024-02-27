@@ -41,7 +41,7 @@ const Featured = () => {
               className="card w-full h-full rounded-lg bg-green-400  overflow-hidden"
             >
               <img
-                src="src\assets\images\card1.png"
+                src="https://github.com/Prem-Mule/OchiDesign-Showcase-app/blob/629241ed2b80145fa26d2242a3bf25acdbea7db0/src/assets/images/card1.png?raw=true"
                 alt="card1"
                 className="w-full h-full object-cover"
               />
@@ -75,7 +75,7 @@ const Featured = () => {
               className="card card w-full h-full rounded-lg bg-green-400  overflow-hidden"
             >
               <img
-                src="src\assets\images\card2.jpg"
+                src="https://github.com/Prem-Mule/OchiDesign-Showcase-app/blob/629241ed2b80145fa26d2242a3bf25acdbea7db0/src/assets/images/card2.jpg?raw=true"
                 alt="card1"
                 className="w-full h-full object-cover"
               />
@@ -112,7 +112,7 @@ const Featured = () => {
               className="card w-full h-full rounded-lg bg-green-400  overflow-hidden"
             >
               <img
-                src="src\assets\images\card4.jpg"
+                src="https://github.com/Prem-Mule/OchiDesign-Showcase-app/blob/629241ed2b80145fa26d2242a3bf25acdbea7db0/src/assets/images/card3.jpg?raw=true"
                 alt="card1"
                 className="w-full h-full object-cover"
               />
@@ -146,7 +146,7 @@ const Featured = () => {
               className="card card w-full h-full rounded-lg bg-green-400  overflow-hidden"
             >
               <img
-                src="src\assets\images\card3.jpg"
+                src="https://github.com/Prem-Mule/OchiDesign-Showcase-app/blob/629241ed2b80145fa26d2242a3bf25acdbea7db0/src/assets/images/card4.jpg?raw=true"
                 alt="card1"
                 className="w-full h-full object-cover"
               />

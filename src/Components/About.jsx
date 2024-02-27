@@ -25,7 +25,7 @@ const About = () => {
         </div>
         <div className="w-1/2 h-[70vh] bg-black rounded-3xl overflow-hidden">
           <img
-            src="src\assets\images\Homepage.jpg"
+            src="https://github.com/Prem-Mule/OchiDesign-Showcase-app/blob/629241ed2b80145fa26d2242a3bf25acdbea7db0/src/assets/images/HomePage.jpg?raw=true"
             alt="agency"
             className="w-full h-full object-cover"
           />
