@@ -1,6 +1,5 @@
 /* eslint-disable no-unused-vars */
 import React from "react";
-
 const About = () => {
   return (
     <div
@@ -26,7 +25,7 @@ const About = () => {
         </div>
         <div className="w-1/2 h-[70vh] bg-black rounded-3xl overflow-hidden">
           <img
-            src="src\images\Homepage-Photo-1326x939.jpg"
+            src="src\images\Homepage.jpg"
             alt="agency"
             className="w-full h-full object-cover"
           />
