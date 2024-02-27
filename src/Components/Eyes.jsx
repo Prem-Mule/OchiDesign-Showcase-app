@@ -20,7 +20,7 @@ const Eyes = () => {
         data-scroll
         data-scroll-section
         data-scroll-speed="-0.6"
-        className="w-full h-full relative bg-[url('./images/Top-Viewbbcbv-1-scaled.jpg')] bg-cover bg-center"
+        className="w-full h-full relative bg-[url('assets/images/Top-Viewbbcbv-1-scaled.jpg')] bg-cover bg-center"
       >
         <div className="absolute  h-[18vw] top-1/2 left-1/2 -translate-x-[50%] -translate-y-[50%] flex justify-center gap-[4vw]">
           <div className=" w-[18vw]  rounded-full bg-zinc-100 flex justify-center items-center">

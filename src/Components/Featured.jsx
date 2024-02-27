@@ -41,7 +41,7 @@ const Featured = () => {
               className="card w-full h-full rounded-lg bg-green-400  overflow-hidden"
             >
               <img
-                src="src\images\card1.png"
+                src="src\assets\images\card1.png"
                 alt="card1"
                 className="w-full h-full object-cover"
               />
@@ -75,7 +75,7 @@ const Featured = () => {
               className="card card w-full h-full rounded-lg bg-green-400  overflow-hidden"
             >
               <img
-                src="src\images\card2.jpg"
+                src="src\assets\images\card2.jpg"
                 alt="card1"
                 className="w-full h-full object-cover"
               />
@@ -112,7 +112,7 @@ const Featured = () => {
               className="card w-full h-full rounded-lg bg-green-400  overflow-hidden"
             >
               <img
-                src="src\images\card4.jpg"
+                src="src\assets\images\card4.jpg"
                 alt="card1"
                 className="w-full h-full object-cover"
               />
@@ -146,7 +146,7 @@ const Featured = () => {
               className="card card w-full h-full rounded-lg bg-green-400  overflow-hidden"
             >
               <img
-                src="src\images\card3.jpg"
+                src="src\assets\images\card3.jpg"
                 alt="card1"
                 className="w-full h-full object-cover"
               />
